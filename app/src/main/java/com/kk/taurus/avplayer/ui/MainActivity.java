@@ -16,6 +16,7 @@ import com.kk.taurus.playerbase.config.PlayerConfig;
 import com.kk.taurus.playerbase.entity.DecoderPlan;
 import com.kk.taurus.playerbase.receiver.OnReceiverEventListener;
 
+//主Activity;
 public class MainActivity extends AppCompatActivity implements OnReceiverEventListener {
 
     private TextView mInfo;
