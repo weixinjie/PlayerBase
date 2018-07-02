@@ -39,7 +39,7 @@ import kr.co.namee.permissiongen.PermissionGen;
 import kr.co.namee.permissiongen.PermissionSuccess;
 
 /**
- * Created by Taurus on 2018/4/15.
+ * Created by weixinjie on 2018/4/15.
  */
 
 public class LocalVideoListActivity extends AppCompatActivity
