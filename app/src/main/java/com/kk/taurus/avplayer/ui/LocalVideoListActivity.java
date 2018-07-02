@@ -63,7 +63,7 @@ public class LocalVideoListActivity extends AppCompatActivity
 
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 
-        setTitle("本地视频");
+        setTitle("本地视频~~~");
 
         mRecycler = findViewById(R.id.recycler);
         mContainer = findViewById(R.id.listPlayContainer);
