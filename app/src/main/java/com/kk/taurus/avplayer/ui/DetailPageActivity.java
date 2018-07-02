@@ -19,7 +19,7 @@ import com.kk.taurus.playerbase.receiver.OnReceiverEventListener;
 import com.kk.taurus.playerbase.receiver.ReceiverGroup;
 
 /**
- * Created by Taurus on 2018/4/18.
+ * Created by weixinjie on 2018/4/18.
  */
 
 public class DetailPageActivity extends AppCompatActivity implements OnReceiverEventListener {
